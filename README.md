@@ -9,7 +9,7 @@ A interface foi feita com primeng;
 Para executá-lo, você precisa ter Angula Cli, Node configurados na máquina;
 
 # Ferramentas
-* npm install -g @ angular / cli para instalar o Angular
+* npm install -g @angular/cli para instalar o Angular
 * https://nodejs.org/dist/v12.16.3/node-v12.16.3-x64.msi para baixar e instalar o Node
 
 Após clonar ou baixar o repositório, acesse a raiz do aplicativo e execute os seguintes comandos:
